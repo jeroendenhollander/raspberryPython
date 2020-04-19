@@ -1,0 +1,13 @@
+mysql-connector-python
+requests
+flask
+flask-wtf
+waitress
+passlib
+sqlalchemy
+pymysql
+pandas
+numpy
+matplotlib
+Flask
+django
